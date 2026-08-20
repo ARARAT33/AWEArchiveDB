@@ -1,17 +1,5 @@
 [
   {
-    "title": "բարև",
-    "slug": "",
-    "description": "բարև",
-    "type": "file",
-    "url": "https://tumo.org",
-    "tags": [],
-    "id": "e351b1c7-4ea7-4220-81b3-a8b5aaf705ee",
-    "status": "active",
-    "createdAt": "2026-08-20T09:34:39.234Z",
-    "updatedAt": "2026-08-20T09:34:39.234Z"
-  },
-  {
     "title": "AWE OS",
     "slug": "awe-os",
     "description": "AWEOS",
