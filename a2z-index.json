@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "archive": "AWE A2Z",
+  "shardSize": 10000,
+  "files": [
+    {
+      "name": "a2zdb.json",
+      "raw": "https://raw.githubusercontent.com/ARARAT33/AWEArchiveDB/refs/heads/main/a2zdb.json",
+      "status": "active",
+      "count": 1
+    }
+  ]
+}
