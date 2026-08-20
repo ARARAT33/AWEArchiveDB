@@ -2,74 +2,74 @@
   {
     "title": "AWE OS",
     "slug": "awe-os",
-    "description": "AWEOS նախագիծը՝ ներբեռնվող repository archive-ով",
+    "description": "AWE OS repository archive download",
     "type": "file",
     "url": "https://github.com/ARARAT33/AWE_OS/archive/refs/heads/main.zip",
-    "tags": ["AWEOS", "Rust", "OS", "GitHub"],
+    "tags": ["AWEOS", "Rust", "Operating System", "GitHub"],
     "id": "d29dafeb-36dc-42a0-8993-0287f0ae6d8d",
     "status": "active",
-    "createdAt": "2026-08-19T21:20:21.911Z",
-    "updatedAt": "2026-08-20T10:05:00.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "AWE OS GitHub",
     "slug": "awe-os-github",
-    "description": "AWE OS-ի հիմնական GitHub repository",
+    "description": "Main AWE OS repository",
     "type": "webpage",
     "url": "https://github.com/ARARAT33/AWE_OS",
     "tags": ["AWEOS", "Rust", "Operating System", "GitHub"],
     "id": "aweos-github-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:01.000Z",
-    "updatedAt": "2026-08-20T10:05:01.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "AWE GitHub",
     "slug": "awe-github",
-    "description": "AWE նախագծի հիմնական repository",
+    "description": "Main AWE project repository",
     "type": "webpage",
     "url": "https://github.com/ARARAT33/AWE",
     "tags": ["AWE", "GitHub", "Open Source"],
     "id": "awe-github-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:02.000Z",
-    "updatedAt": "2026-08-20T10:05:02.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "AWEAI GitHub",
     "slug": "aweai-github",
-    "description": "AWEAI նախագծի repository",
+    "description": "AWEAI project repository",
     "type": "webpage",
     "url": "https://github.com/ARARAT33/AWEAI",
     "tags": ["AI", "AWEAI", "GitHub"],
     "id": "aweai-github-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:03.000Z",
-    "updatedAt": "2026-08-20T10:05:03.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "AWEGame GitHub",
     "slug": "awegame-github",
-    "description": "AWEGame խաղերի նախագիծ",
+    "description": "AWEGame project repository",
     "type": "webpage",
     "url": "https://github.com/ARARAT33/AWEGame",
     "tags": ["Games", "HTML", "JavaScript", "AWE"],
     "id": "awegame-github-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:04.000Z",
-    "updatedAt": "2026-08-20T10:05:04.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "AWE School GitHub",
     "slug": "aweschool-github",
-    "description": "AWE School կրթական հարթակի repository",
+    "description": "AWE School education platform repository",
     "type": "webpage",
     "url": "https://github.com/ARARAT33/AWESchool",
     "tags": ["Education", "AWE", "GitHub"],
     "id": "aweschool-github-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:05.000Z",
-    "updatedAt": "2026-08-20T10:05:05.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "GitHub",
@@ -80,8 +80,32 @@
     "tags": ["Development", "Git", "Open Source"],
     "id": "resource-github-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:06.000Z",
-    "updatedAt": "2026-08-20T10:05:06.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "GitHub Codespaces",
+    "slug": "github-codespaces",
+    "description": "Cloud development environments integrated with GitHub",
+    "type": "webpage",
+    "url": "https://github.com/features/codespaces",
+    "tags": ["Development", "Cloud", "GitHub", "IDE"],
+    "id": "resource-github-codespaces-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "GitHub Docs",
+    "slug": "github-docs",
+    "description": "Official documentation for GitHub products and workflows",
+    "type": "webpage",
+    "url": "https://docs.github.com",
+    "tags": ["GitHub", "Documentation", "Development"],
+    "id": "resource-github-docs-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Cloudflare",
@@ -92,8 +116,8 @@
     "tags": ["Cloud", "CDN", "Security", "Workers"],
     "id": "resource-cloudflare-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:07.000Z",
-    "updatedAt": "2026-08-20T10:05:07.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Cloudflare Developers",
@@ -102,10 +126,22 @@
     "type": "webpage",
     "url": "https://developers.cloudflare.com",
     "tags": ["Cloudflare", "Developers", "Documentation"],
-    "id": "resource-cfdev-001",
+    "id": "resource-cloudflare-developers-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:08.000Z",
-    "updatedAt": "2026-08-20T10:05:08.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Cloudflare Workers",
+    "slug": "cloudflare-workers",
+    "description": "Serverless application platform for Cloudflare",
+    "type": "webpage",
+    "url": "https://developers.cloudflare.com/workers/",
+    "tags": ["Cloudflare", "Serverless", "JavaScript", "Edge"],
+    "id": "resource-cloudflare-workers-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Supabase",
@@ -116,8 +152,8 @@
     "tags": ["Database", "Postgres", "Backend", "Auth"],
     "id": "resource-supabase-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:09.000Z",
-    "updatedAt": "2026-08-20T10:05:09.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Google Drive",
@@ -126,10 +162,10 @@
     "type": "webpage",
     "url": "https://drive.google.com",
     "tags": ["Storage", "Cloud", "Files"],
-    "id": "resource-drive-001",
+    "id": "resource-google-drive-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:10.000Z",
-    "updatedAt": "2026-08-20T10:05:10.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "MEGA",
@@ -140,8 +176,8 @@
     "tags": ["Storage", "Cloud", "Privacy", "Files"],
     "id": "resource-mega-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:11.000Z",
-    "updatedAt": "2026-08-20T10:05:11.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Internet Archive",
@@ -150,10 +186,10 @@
     "type": "webpage",
     "url": "https://archive.org",
     "tags": ["Archive", "Digital Library", "Web", "Media"],
-    "id": "resource-archive-001",
+    "id": "resource-internet-archive-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:12.000Z",
-    "updatedAt": "2026-08-20T10:05:12.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Wikipedia",
@@ -164,8 +200,8 @@
     "tags": ["Knowledge", "Encyclopedia", "Education"],
     "id": "resource-wikipedia-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:13.000Z",
-    "updatedAt": "2026-08-20T10:05:13.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "TUMO Center for Creative Technologies",
@@ -176,8 +212,8 @@
     "tags": ["Armenia", "Education", "Technology"],
     "id": "resource-tumo-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:14.000Z",
-    "updatedAt": "2026-08-20T10:05:14.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "MDN Web Docs",
@@ -186,10 +222,10 @@
     "type": "webpage",
     "url": "https://developer.mozilla.org",
     "tags": ["Web", "HTML", "CSS", "JavaScript", "Documentation"],
-    "id": "resource-mdn-001",
+    "id": "resource-mdn-web-docs-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:15.000Z",
-    "updatedAt": "2026-08-20T10:05:15.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Rust",
@@ -200,8 +236,20 @@
     "tags": ["Rust", "Programming", "Systems"],
     "id": "resource-rust-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:16.000Z",
-    "updatedAt": "2026-08-20T10:05:16.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "The Rust Book",
+    "slug": "rust-book",
+    "description": "Official Rust programming language book",
+    "type": "webpage",
+    "url": "https://doc.rust-lang.org/book/",
+    "tags": ["Rust", "Programming", "Learning"],
+    "id": "resource-rust-book-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Python",
@@ -212,8 +260,8 @@
     "tags": ["Python", "Programming", "Development"],
     "id": "resource-python-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:17.000Z",
-    "updatedAt": "2026-08-20T10:05:17.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Node.js",
@@ -224,8 +272,8 @@
     "tags": ["JavaScript", "Node.js", "Development"],
     "id": "resource-nodejs-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:18.000Z",
-    "updatedAt": "2026-08-20T10:05:18.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "React",
@@ -236,8 +284,8 @@
     "tags": ["React", "JavaScript", "Frontend"],
     "id": "resource-react-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:19.000Z",
-    "updatedAt": "2026-08-20T10:05:19.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Next.js",
@@ -248,8 +296,8 @@
     "tags": ["Next.js", "React", "Web"],
     "id": "resource-nextjs-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:20.000Z",
-    "updatedAt": "2026-08-20T10:05:20.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Vercel",
@@ -260,8 +308,8 @@
     "tags": ["Cloud", "Web", "Deployment"],
     "id": "resource-vercel-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:21.000Z",
-    "updatedAt": "2026-08-20T10:05:21.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Hugging Face",
@@ -270,10 +318,34 @@
     "type": "webpage",
     "url": "https://huggingface.co",
     "tags": ["AI", "Machine Learning", "Models", "Datasets"],
-    "id": "resource-hf-001",
+    "id": "resource-hugging-face-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:22.000Z",
-    "updatedAt": "2026-08-20T10:05:22.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Hugging Face Models",
+    "slug": "hugging-face-models",
+    "description": "Open machine learning model hub",
+    "type": "webpage",
+    "url": "https://huggingface.co/models",
+    "tags": ["AI", "Models", "Machine Learning"],
+    "id": "resource-hugging-face-models-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Hugging Face Datasets",
+    "slug": "hugging-face-datasets",
+    "description": "Community datasets for machine learning and research",
+    "type": "webpage",
+    "url": "https://huggingface.co/datasets",
+    "tags": ["AI", "Datasets", "Research"],
+    "id": "resource-hugging-face-datasets-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Kaggle",
@@ -284,8 +356,8 @@
     "tags": ["AI", "Data Science", "Datasets", "Machine Learning"],
     "id": "resource-kaggle-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:23.000Z",
-    "updatedAt": "2026-08-20T10:05:23.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Stack Overflow",
@@ -294,10 +366,10 @@
     "type": "webpage",
     "url": "https://stackoverflow.com",
     "tags": ["Programming", "Community", "Development"],
-    "id": "resource-stackoverflow-001",
+    "id": "resource-stack-overflow-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:24.000Z",
-    "updatedAt": "2026-08-20T10:05:24.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "Google",
@@ -308,8 +380,8 @@
     "tags": ["Search", "Web", "Services"],
     "id": "resource-google-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:25.000Z",
-    "updatedAt": "2026-08-20T10:05:25.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "YouTube",
@@ -320,8 +392,8 @@
     "tags": ["Video", "Media", "Streaming"],
     "id": "resource-youtube-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:26.000Z",
-    "updatedAt": "2026-08-20T10:05:26.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
     "title": "OpenAI",
@@ -332,19 +404,655 @@
     "tags": ["AI", "Research", "Technology"],
     "id": "resource-openai-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:27.000Z",
-    "updatedAt": "2026-08-20T10:05:27.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   },
   {
-    "title": "GitHub Codespaces",
-    "slug": "github-codespaces",
-    "description": "Cloud development environments integrated with GitHub",
+    "title": "Anthropic",
+    "slug": "anthropic",
+    "description": "AI safety and artificial intelligence company",
     "type": "webpage",
-    "url": "https://github.com/features/codespaces",
-    "tags": ["Development", "Cloud", "GitHub", "IDE"],
-    "id": "resource-codespaces-001",
+    "url": "https://www.anthropic.com",
+    "tags": ["AI", "Research", "Technology"],
+    "id": "resource-anthropic-001",
     "status": "active",
-    "createdAt": "2026-08-20T10:05:28.000Z",
-    "updatedAt": "2026-08-20T10:05:28.000Z"
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Google AI",
+    "slug": "google-ai",
+    "description": "Google artificial intelligence research and products",
+    "type": "webpage",
+    "url": "https://ai.google",
+    "tags": ["AI", "Research", "Google"],
+    "id": "resource-google-ai-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Microsoft AI",
+    "slug": "microsoft-ai",
+    "description": "Microsoft artificial intelligence products and research",
+    "type": "webpage",
+    "url": "https://www.microsoft.com/ai",
+    "tags": ["AI", "Microsoft", "Research"],
+    "id": "resource-microsoft-ai-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Meta AI",
+    "slug": "meta-ai",
+    "description": "Artificial intelligence research and products from Meta",
+    "type": "webpage",
+    "url": "https://ai.meta.com",
+    "tags": ["AI", "Research", "Technology"],
+    "id": "resource-meta-ai-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "DeepSeek",
+    "slug": "deepseek",
+    "description": "AI research and language model platform",
+    "type": "webpage",
+    "url": "https://www.deepseek.com",
+    "tags": ["AI", "LLM", "Research"],
+    "id": "resource-deepseek-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Qwen",
+    "slug": "qwen",
+    "description": "Alibaba Qwen large language model family",
+    "type": "webpage",
+    "url": "https://qwenlm.github.io",
+    "tags": ["AI", "LLM", "Open Source"],
+    "id": "resource-qwen-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Mistral AI",
+    "slug": "mistral-ai",
+    "description": "Artificial intelligence models and developer platform",
+    "type": "webpage",
+    "url": "https://mistral.ai",
+    "tags": ["AI", "LLM", "Models"],
+    "id": "resource-mistral-ai-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "NVIDIA Developer",
+    "slug": "nvidia-developer",
+    "description": "Developer resources for NVIDIA GPUs and AI computing",
+    "type": "webpage",
+    "url": "https://developer.nvidia.com",
+    "tags": ["AI", "GPU", "CUDA", "Development"],
+    "id": "resource-nvidia-developer-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "PyTorch",
+    "slug": "pytorch",
+    "description": "Open source machine learning framework",
+    "type": "webpage",
+    "url": "https://pytorch.org",
+    "tags": ["AI", "Python", "Machine Learning"],
+    "id": "resource-pytorch-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "TensorFlow",
+    "slug": "tensorflow",
+    "description": "Open source machine learning platform",
+    "type": "webpage",
+    "url": "https://www.tensorflow.org",
+    "tags": ["AI", "Machine Learning", "Python"],
+    "id": "resource-tensorflow-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Kubernetes",
+    "slug": "kubernetes",
+    "description": "Open source container orchestration platform",
+    "type": "webpage",
+    "url": "https://kubernetes.io",
+    "tags": ["Cloud", "Containers", "DevOps"],
+    "id": "resource-kubernetes-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Docker",
+    "slug": "docker",
+    "description": "Container platform for building and running applications",
+    "type": "webpage",
+    "url": "https://www.docker.com",
+    "tags": ["Containers", "DevOps", "Development"],
+    "id": "resource-docker-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "npm",
+    "slug": "npm",
+    "description": "JavaScript package registry and package manager",
+    "type": "webpage",
+    "url": "https://www.npmjs.com",
+    "tags": ["JavaScript", "Packages", "Development"],
+    "id": "resource-npm-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "PyPI",
+    "slug": "pypi",
+    "description": "Python Package Index",
+    "type": "webpage",
+    "url": "https://pypi.org",
+    "tags": ["Python", "Packages", "Development"],
+    "id": "resource-pypi-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "crates.io",
+    "slug": "crates-io",
+    "description": "Rust package registry",
+    "type": "webpage",
+    "url": "https://crates.io",
+    "tags": ["Rust", "Packages", "Development"],
+    "id": "resource-crates-io-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "W3C",
+    "slug": "w3c",
+    "description": "International web standards organization",
+    "type": "webpage",
+    "url": "https://www.w3.org",
+    "tags": ["Web", "Standards", "HTML", "CSS"],
+    "id": "resource-w3c-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "WHATWG",
+    "slug": "whatwg",
+    "description": "Web platform standards community",
+    "type": "webpage",
+    "url": "https://whatwg.org",
+    "tags": ["Web", "Standards", "HTML"],
+    "id": "resource-whatwg-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Free Software Foundation",
+    "slug": "free-software-foundation",
+    "description": "Organization supporting software freedom and open source principles",
+    "type": "webpage",
+    "url": "https://www.fsf.org",
+    "tags": ["Open Source", "Free Software", "Community"],
+    "id": "resource-free-software-foundation-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Apache Software Foundation",
+    "slug": "apache",
+    "description": "Open source software foundation and project ecosystem",
+    "type": "webpage",
+    "url": "https://www.apache.org",
+    "tags": ["Open Source", "Software", "Community"],
+    "id": "resource-apache-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Linux Kernel",
+    "slug": "linux-kernel",
+    "description": "Official Linux kernel project",
+    "type": "webpage",
+    "url": "https://www.kernel.org",
+    "tags": ["Linux", "Kernel", "Operating System"],
+    "id": "resource-linux-kernel-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Ubuntu",
+    "slug": "ubuntu",
+    "description": "Popular Linux operating system and open source ecosystem",
+    "type": "webpage",
+    "url": "https://ubuntu.com",
+    "tags": ["Linux", "Operating System", "Open Source"],
+    "id": "resource-ubuntu-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Debian",
+    "slug": "debian",
+    "description": "Community-driven universal operating system",
+    "type": "webpage",
+    "url": "https://www.debian.org",
+    "tags": ["Linux", "Operating System", "Open Source"],
+    "id": "resource-debian-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Arch Linux",
+    "slug": "arch-linux",
+    "description": "Lightweight and flexible Linux distribution",
+    "type": "webpage",
+    "url": "https://archlinux.org",
+    "tags": ["Linux", "Operating System", "Open Source"],
+    "id": "resource-arch-linux-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "FreeBSD",
+    "slug": "freebsd",
+    "description": "Unix-like open source operating system",
+    "type": "webpage",
+    "url": "https://www.freebsd.org",
+    "tags": ["BSD", "Operating System", "Open Source"],
+    "id": "resource-freebsd-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "QEMU",
+    "slug": "qemu",
+    "description": "Open source machine emulator and virtualizer",
+    "type": "webpage",
+    "url": "https://www.qemu.org",
+    "tags": ["Virtualization", "Emulation", "Systems"],
+    "id": "resource-qemu-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "LLVM",
+    "slug": "llvm",
+    "description": "Compiler infrastructure project",
+    "type": "webpage",
+    "url": "https://llvm.org",
+    "tags": ["Compilers", "C", "C++", "Systems"],
+    "id": "resource-llvm-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "GCC",
+    "slug": "gcc",
+    "description": "GNU Compiler Collection",
+    "type": "webpage",
+    "url": "https://gcc.gnu.org",
+    "tags": ["Compilers", "C", "C++", "Systems"],
+    "id": "resource-gcc-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "SQLite",
+    "slug": "sqlite",
+    "description": "Small, fast and self-contained SQL database engine",
+    "type": "webpage",
+    "url": "https://sqlite.org",
+    "tags": ["Database", "SQL", "Open Source"],
+    "id": "resource-sqlite-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "PostgreSQL",
+    "slug": "postgresql",
+    "description": "Advanced open source relational database",
+    "type": "webpage",
+    "url": "https://www.postgresql.org",
+    "tags": ["Database", "SQL", "Open Source"],
+    "id": "resource-postgresql-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Redis",
+    "slug": "redis",
+    "description": "In-memory data structure store and caching platform",
+    "type": "webpage",
+    "url": "https://redis.io",
+    "tags": ["Database", "Cache", "Backend"],
+    "id": "resource-redis-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "MongoDB",
+    "slug": "mongodb",
+    "description": "Document-oriented database platform",
+    "type": "webpage",
+    "url": "https://www.mongodb.com",
+    "tags": ["Database", "NoSQL", "Backend"],
+    "id": "resource-mongodb-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "OWASP",
+    "slug": "owasp",
+    "description": "Open community focused on application security",
+    "type": "webpage",
+    "url": "https://owasp.org",
+    "tags": ["Cybersecurity", "Web Security", "Open Source"],
+    "id": "resource-owasp-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "CISA",
+    "slug": "cisa",
+    "description": "United States Cybersecurity and Infrastructure Security Agency",
+    "type": "webpage",
+    "url": "https://www.cisa.gov",
+    "tags": ["Cybersecurity", "Security", "Government"],
+    "id": "resource-cisa-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "NIST",
+    "slug": "nist",
+    "description": "National Institute of Standards and Technology",
+    "type": "webpage",
+    "url": "https://www.nist.gov",
+    "tags": ["Science", "Security", "Standards"],
+    "id": "resource-nist-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "arXiv",
+    "slug": "arxiv",
+    "description": "Open access repository for scholarly research papers",
+    "type": "webpage",
+    "url": "https://arxiv.org",
+    "tags": ["Research", "Science", "Papers"],
+    "id": "resource-arxiv-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "DOAJ",
+    "slug": "doaj",
+    "description": "Directory of Open Access Journals",
+    "type": "webpage",
+    "url": "https://doaj.org",
+    "tags": ["Research", "Journals", "Open Access"],
+    "id": "resource-doaj-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "MIT OpenCourseWare",
+    "slug": "mit-ocw",
+    "description": "Free course materials from MIT",
+    "type": "webpage",
+    "url": "https://ocw.mit.edu",
+    "tags": ["Education", "Courses", "Science"],
+    "id": "resource-mit-ocw-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Khan Academy",
+    "slug": "khan-academy",
+    "description": "Free educational resources and courses",
+    "type": "webpage",
+    "url": "https://www.khanacademy.org",
+    "tags": ["Education", "Learning", "Courses"],
+    "id": "resource-khan-academy-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "freeCodeCamp",
+    "slug": "freecodecamp",
+    "description": "Free programming and web development learning platform",
+    "type": "webpage",
+    "url": "https://www.freecodecamp.org",
+    "tags": ["Education", "Programming", "Web"],
+    "id": "resource-freecodecamp-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Project Gutenberg",
+    "slug": "project-gutenberg",
+    "description": "Free digital library of public domain books",
+    "type": "webpage",
+    "url": "https://www.gutenberg.org",
+    "tags": ["Books", "Education", "Library"],
+    "id": "resource-project-gutenberg-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "OpenStax",
+    "slug": "openstax",
+    "description": "Free open educational resources and textbooks",
+    "type": "webpage",
+    "url": "https://openstax.org",
+    "tags": ["Education", "Books", "Open Access"],
+    "id": "resource-openstax-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Wikimedia Commons",
+    "slug": "wikimedia-commons",
+    "description": "Free media repository for images, audio and video",
+    "type": "image",
+    "url": "https://commons.wikimedia.org",
+    "tags": ["Media", "Images", "Open Content"],
+    "id": "resource-wikimedia-commons-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "OpenStreetMap",
+    "slug": "openstreetmap",
+    "description": "Collaborative open geographic database",
+    "type": "webpage",
+    "url": "https://www.openstreetmap.org",
+    "tags": ["Maps", "Open Data", "Geospatial"],
+    "id": "resource-openstreetmap-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "NASA",
+    "slug": "nasa",
+    "description": "Official NASA science and space resources",
+    "type": "webpage",
+    "url": "https://www.nasa.gov",
+    "tags": ["Science", "Space", "Research"],
+    "id": "resource-nasa-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "European Space Agency",
+    "slug": "esa",
+    "description": "European Space Agency science and space resources",
+    "type": "webpage",
+    "url": "https://www.esa.int",
+    "tags": ["Science", "Space", "Research"],
+    "id": "resource-esa-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Smithsonian",
+    "slug": "smithsonian",
+    "description": "Museums, research and educational resources",
+    "type": "webpage",
+    "url": "https://www.si.edu",
+    "tags": ["Science", "History", "Education"],
+    "id": "resource-smithsonian-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Blender",
+    "slug": "blender",
+    "description": "Open source 3D creation suite",
+    "type": "webpage",
+    "url": "https://www.blender.org",
+    "tags": ["3D", "Design", "Open Source"],
+    "id": "resource-blender-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "GIMP",
+    "slug": "gimp",
+    "description": "Free and open source image editor",
+    "type": "webpage",
+    "url": "https://www.gimp.org",
+    "tags": ["Image", "Design", "Open Source"],
+    "id": "resource-gimp-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Inkscape",
+    "slug": "inkscape",
+    "description": "Free vector graphics editor",
+    "type": "webpage",
+    "url": "https://inkscape.org",
+    "tags": ["Design", "SVG", "Open Source"],
+    "id": "resource-inkscape-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Godot Engine",
+    "slug": "godot",
+    "description": "Open source game engine",
+    "type": "webpage",
+    "url": "https://godotengine.org",
+    "tags": ["Games", "Game Development", "Open Source"],
+    "id": "resource-godot-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Unity",
+    "slug": "unity",
+    "description": "Real-time 3D development platform",
+    "type": "webpage",
+    "url": "https://unity.com",
+    "tags": ["Games", "3D", "Development"],
+    "id": "resource-unity-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Unreal Engine",
+    "slug": "unreal-engine",
+    "description": "Real-time 3D creation and game development platform",
+    "type": "webpage",
+    "url": "https://www.unrealengine.com",
+    "tags": ["Games", "3D", "Development"],
+    "id": "resource-unreal-engine-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Figma",
+    "slug": "figma",
+    "description": "Collaborative interface design platform",
+    "type": "webpage",
+    "url": "https://www.figma.com",
+    "tags": ["Design", "UI", "Collaboration"],
+    "id": "resource-figma-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "title": "Canva",
+    "slug": "canva",
+    "description": "Online visual design and content creation platform",
+    "type": "webpage",
+    "url": "https://www.canva.com",
+    "tags": ["Design", "Graphics", "Creative"],
+    "id": "resource-canva-001",
+    "status": "active",
+    "createdAt": "2026-08-20T12:00:00.000Z",
+    "updatedAt": "2026-08-20T12:00:00.000Z"
   }
 ]
