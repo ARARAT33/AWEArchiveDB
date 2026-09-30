@@ -1,1 +1,9 @@
-
+{
+  "site": {
+    "name": "AWE",
+    "entry": "/index.html"
+  },
+  "repositories": [
+    "https://github.com/ARARAT33/AWESchool4444"
+  ]
+}
